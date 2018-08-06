@@ -1,0 +1,3 @@
+class home(){
+printf("code");
+}
